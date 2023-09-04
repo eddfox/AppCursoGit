@@ -11,3 +11,5 @@ Fecha 4 septiembre 2023
 modificamos nombre y contraseña 
 
 Comenzando con git
+
+git show agregado
