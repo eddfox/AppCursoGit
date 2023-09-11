@@ -20,6 +20,17 @@ commit 2
 
 commit 3
 
+<<<<<<< HEAD
+
+=======
+estoy en la rama firstbranch
+
+actualizamos con otra linea 
+
+este es un cambio despues de
+moficar en master antes de Merge
+>>>>>>> firstbranch
+
 
 hacemos un cambio para después
 un MR
